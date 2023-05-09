@@ -3,9 +3,6 @@
     <!-- 头部标题部分 -->
     <div class="header">
       <div class="title">青海省生态环境保护修复项目平台</div>
-      <div class="weather">
-        <div class="weather-text">雷阵雨</div>
-      </div>
       <div class="header-bottom"></div>
     </div>
 
@@ -64,18 +61,6 @@
       background: linear-gradient(180deg, #FFFFFF 0%, #5BBBFE 100%);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
-    }
-
-    .weather .weather-text {
-      padding-left: 68px;
-      padding-top: 16px;
-      width: 42px;
-      height: 20px;
-      font-size: 14px;
-      font-family: DINAlternate-Bold, DINAlternate;
-      font-weight: bold;
-      color: #E6F7FF;
-      line-height: 16px;
     }
 
     .header-bottom {
