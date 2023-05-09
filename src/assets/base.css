@@ -1,0 +1,9 @@
+/* color palette from <https://github.com/vuejs/theme> */
+
+#app {
+  width: 100vw;
+  height: 100vh;
+
+  /* border: 3px solid orange; */
+  box-sizing: border-box;
+}
