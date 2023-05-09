@@ -82,7 +82,7 @@
       display: flex;
       width: 428px;
       height: 961px;
-      margin-left: 12px;
+      // margin-left: 12px;
 
       background-image: url(@/assets/images/bg_left.png);
     }
